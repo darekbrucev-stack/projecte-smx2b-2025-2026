@@ -20,3 +20,4 @@
 | 11 | Torres             | Erik          | [rocher](https://github.com/rocher)                 | [rocher.github.io](https://rocher.github.io)              | [La FUSTA]                                   |
 | 12 | Ventura Llopart    | Joel          | [joelventura21](https://github.com/joelventura21)   | [joelventura21.github.io](https://joelventura21.github.io).|                                             |
 | 13 | Joel               | García        | [jogaga1](https://github.com/jogaga1)               | [jogaga1.github.io](https://jogaga1.github.io)            | [ ]                                          |
+| 14 | Valencia López	  | Darek Bruce	  | [darekbrucev-stack](https://github.com/darekbrucev-stack)	| [darekbrucev-stack.github.io](https://darekbrucev-stack.github.io) 
